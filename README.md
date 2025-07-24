@@ -35,7 +35,7 @@ This repository contains materials and progress related to the course **Data Pro
 
 ## 📁 Project Structure
 
-
+Cozzolino, D., Poggi, G., Nießner, M., & Verdoliva, L. (2024, September). Zero-shot detection of ai-generated images. In European Conference on Computer Vision (pp. 54-72). Cham: Springer Nature Switzerland.
 ---
 
 

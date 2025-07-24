@@ -1,12 +1,6 @@
 # MSC_DPDM_2025
 Kanokporn Pakdeenual ID675020069-9
 
-score: 
-Research Project    20% 
-Homework            20%.
-Quiz                10%
-Midterm Exam       20%
-Final Exam          20%
 
 # 🎓 MSC_DPDM_2025 – Data Programming and Data Management
 
@@ -15,18 +9,13 @@ Final Exam          20%
 
 **👩‍🎓 Student:** Kanokporn Pakdeenual  
 **🆔 Student ID:** 675020069-9  
-**📅 Academic Year:** 2025
+**📅 Academic Year:** 1/2025
 
 ---
 
 ## 📌 Description
 
 This repository contains materials and progress related to the course **Data Programming and Data Management (SC637703)**. It includes lecture notebooks, assignments, project reviews, and research documents for the Master’s degree program in Applied Statistics.
-
----
-
-## 📁 Project Structure
-
 
 ---
 
@@ -43,27 +32,13 @@ This repository contains materials and progress related to the course **Data Pro
 
 ---
 
-## 🛠️ Technologies Used
 
-- **Python** (NumPy, Pandas, Matplotlib, Seaborn)
-- **Jupyter Notebook**
-- **Git & GitHub**
-- **Markdown**
+## 📁 Project Structure
+
 
 ---
 
-## 📖 References
 
-- Course Textbook and Lecture Notes
-- Academic Papers (e.g. LOF by Breunig et al., Circular Statistics references)
-- Supplementary articles used in Research folder
-
----
-
-## ✨ License
-
-This project is for **academic use only** under the supervision of Dr. Prem Chansawang.  
-Unauthorized use or distribution is not permitted.
 
 ---
 

@@ -27,3 +27,44 @@ This repository contains materials and progress related to the course **Data Pro
 
 ## 📁 Project Structure
 
+
+---
+
+## 📊 Grading Criteria
+
+| Component           | Percentage |
+|--------------------|------------|
+| Research Project    | 20%        |
+| Homework            | 20%        |
+| Quiz                | 10%        |
+| Midterm Exam        | 20%        |
+| Final Exam          | 20%        |
+| Participation       | 10%        |
+
+---
+
+## 🛠️ Technologies Used
+
+- **Python** (NumPy, Pandas, Matplotlib, Seaborn)
+- **Jupyter Notebook**
+- **Git & GitHub**
+- **Markdown**
+
+---
+
+## 📖 References
+
+- Course Textbook and Lecture Notes
+- Academic Papers (e.g. LOF by Breunig et al., Circular Statistics references)
+- Supplementary articles used in Research folder
+
+---
+
+## ✨ License
+
+This project is for **academic use only** under the supervision of Dr. Prem Chansawang.  
+Unauthorized use or distribution is not permitted.
+
+---
+
+> _“The best way to learn is to do.” – Paul Halmos_ 📚

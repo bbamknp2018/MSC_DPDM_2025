@@ -39,10 +39,10 @@ Cozzolino, D., Poggi, G., Nießner, M., & Verdoliva, L. (2024, September). Zero-
 ---
 <br>
 
-| Topic       | Presentation |
-| ----------- | ------------ |
-| 1. abstract | [Download / View Presentation](Research%20Project/your_presentation_file.pdf) |
-
+| Topic       | Presentation Preview & Link |
+| ----------- | --------------------------- |
+| 1. Abstract | [![Abstract Presentation Preview](Research%20Project/abstract_cover.png)](Research%20Project/abstract_presentation.pdf) |
+| 2. (หัวข้อถัดไป) | (รออัปเดต) |
 ---
 
 > _“The best way to learn is to do.” – Paul Halmos_ 📚

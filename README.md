@@ -39,6 +39,7 @@ This repository contains materials and progress related to the course **Data Pro
 | 17-06-2025  | **นำเสนอ** งานวิจัย 4 เรื่อง และได้รับมอบหมายให้ศึกษาเพิ่มเติมอีก 3 เรื่อง     |
 | 24-06-2025  | **นำเสนอ** งานวิจัย 3 เรื่อง และ **เลือก** หัวข้อวิจัยที่จะศึกษาต่อ         |
 | 29-06-2025  | **นำเสนอ** Abstract ของงานวิจัยที่เลือก                                 |
+| 05-08-2025  | **นำเสนอ** Result ของงานวิจัยที่เลือก                                              |
 | *Next Step* | *(วางแผนขั้นตอนต่อไป...)*                                              |
 
 ---
@@ -52,7 +53,8 @@ Cozzolino, D., Poggi, G., Nießner, M., & Verdoliva, L. (2024, September). Zero-
 | Topic       | Presentation Link |
 | ----------- | ----------------- |
 | 1. Abstract | [Abstract PDF on GitHub](https://github.com/bbamknp2018/MSC_DPDM_2025/blob/main/Research%20Project/Abstract.pdf) |
-| 2. (หัวข้อถัดไป) | (รออัปเดต) |
+| 2. Result   | [Abstract PDF on GitHub](https://github.com/bbamknp2018/MSC_DPDM_2025/blob/main/Research%20Project/Abstract.pdf) |
+| 3. (หัวข้อถัดไป) | (รออัปเดต) |
 
 ---
 

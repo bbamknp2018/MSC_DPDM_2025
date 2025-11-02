@@ -40,7 +40,7 @@ This repository contains materials and progress related to the course **Data Pro
 | 24-06-2025  | **นำเสนอ** งานวิจัย 3 เรื่อง และ **เลือก** หัวข้อวิจัยที่จะศึกษาต่อ         |
 | 29-06-2025  | **นำเสนอ** Abstract ของงานวิจัยที่เลือก                                 |
 | 05-08-2025  | **นำเสนอ** Result ของงานวิจัยที่เลือก                                              |
-| *Next Step* | *(วางแผนขั้นตอนต่อไป...)*                                              |
+| 28-10-2025 | **สอบ** Research Project                                              |
 
 ---
 
